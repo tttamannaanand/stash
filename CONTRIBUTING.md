@@ -1,4 +1,4 @@
-# Adding loot
+# Adding to the stash
 
 1. **Free only.** The asset or tool must be usable for free, with no trial or forced sign-up for a paid plan.
 2. **Label the licence honestly** using the badges: 🟢 free commercial, no credit · 🟡 free commercial with credit · 🔵 free tool or plan · 🟣 mixed, check each item.

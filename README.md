@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💎 LOOT
+# 💎 STASH
 
 **398 free design resources for UI/UX designers. Icons, animations, overlays, PNGs, pixel art, 3D, fonts, mockups, sounds and tools. 100% free.**
 
@@ -659,7 +659,7 @@
 
 <div align="center">
 
-**Found free loot that's missing?** [Drop it in](CONTRIBUTING.md). Star the repo so other designers find it ⭐
+**Know a free resource that's missing?** [Drop it in](CONTRIBUTING.md). Star the repo so other designers find it ⭐
 
 `[ GAME OVER — CONTINUE? ]`
 
