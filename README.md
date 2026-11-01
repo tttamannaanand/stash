@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💎 STASH
+# 🎒 STASH
 
 **398 free design resources for UI/UX designers. Icons, animations, overlays, PNGs, pixel art, 3D, fonts, mockups, sounds and tools. 100% free.**
 
