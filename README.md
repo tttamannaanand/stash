@@ -380,6 +380,7 @@
 | [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) | Arcade pixel font | 🟢 |
 | [Pixelify Sans](https://fonts.google.com/specimen/Pixelify+Sans) | Modern pixel font | 🟢 |
 | [Pixel It](https://giventofly.github.io/pixelit/) | Turn any image into pixel art | 🔵 |
+| [PixelArtHive](https://pixelarthive.com/) | Browser-local image-to-pixel-art conversion and pixel art upscaling | 🔵 |
 | [CraftPix (free)](https://craftpix.net/freebies/) | Free 2D game packs | 🟣 |
 
 ## 📼 Retro, Y2K & glitch
